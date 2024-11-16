@@ -1,3 +1,5 @@
-Hello welcome to cpp input file 
-jan i 
-hrjani
+FA = 5893 
+SA = 5895 
+filename = 1bl8-123.pdb  
+step = 50   
+
